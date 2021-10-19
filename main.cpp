@@ -28,7 +28,7 @@ std::string Version()
 
 void Help()
 {
-	std::cout << "Wtime version: " << Version() << std::endl;
+	std::cout << "wtime_control version: " << Version() << std::endl;
 	std::cout << "-h (--help): helper" << std::endl;
 	std::cout << "-v (--version): version" << std::endl;	
 }
